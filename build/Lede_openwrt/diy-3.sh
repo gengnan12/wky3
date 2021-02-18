@@ -4,9 +4,9 @@
 # AutoBuild Actions
 
 Diy_Core() {
-	Author="281677160"
-	Default_Device="x86-64"
-	Updete_firmware="generic-squashfs-combined.img.gz"
+	Author="yifan237"
+	Default_Device="microchip_sama5d3-xplained"
+	Updete_firmware="openwrt-at91-sama5-microchip_sama5d3-xplained-ext4-sdcard.img.gz"
 	Extension=".img.gz"
 	Source="lede"
 }
