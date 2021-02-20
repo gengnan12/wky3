@@ -6,8 +6,8 @@
 Diy_Core() {
 	Author="yifan237"
 	Default_Device="microchip_sama5d3-xplained"
-	Updete_firmware="openwrt-at91-sama5-microchip_sama5d3-xplained-ext4-sdcard.img.gz"
-	Extension=".img.gz"
+	Updete_firmware="openwrt-at91-sama5-microchip_sama5d3-xplained-rootfs.tar.gz"
+	Extension=".tar.gz"
 	Source="Project"
 }
 
