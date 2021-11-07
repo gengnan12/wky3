@@ -7,13 +7,6 @@
 #
 name: 编译update_Firmware
 on:
-  repository_dispatch:
-  workflow_dispatch:
-    inputs:
-      ssh:
-        description: 'SSH connection to Actions'
-        required: false
-        default: 'false'
   workflow_dispatch:
     inputs:
       ssh:
